@@ -46,7 +46,8 @@ Thank you for having taken development training with me. In order to make this c
 <!-- Named Links -->
 [d1v]: https://creatio-global.zoom.us/rec/play/p8bAIsD66-TuN_L5zeApOwZTs9PQwjQev2kJRQhpRrkfwHwcQYfnJDYDxjj26GNMp7QjAiTgz5gS-04t.yFbFs09WMjFiCONr
 [d2v1]:https://creatio-global.zoom.us/rec/share/VCW-Uz8MNu5c5w538uvpJvm7zF06bVLzZpXaAasolDNzsgS6D97RYyg1jxIAat3D.3UwkeoUFr3E_z8To
-[d2v2] https://creatio-global.zoom.us/rec/share/3H16bX8fz2k8DJk3eZ6VWOZWdgO00OmFQllXQhgHnyofC9gAGU7z8Ixeukh2HewA.sjOiOEdAZUqDUKvP
+[d2v2]:https://creatio-global.zoom.us/rec/share/3H16bX8fz2k8DJk3eZ6VWOZWdgO00OmFQllXQhgHnyofC9gAGU7z8Ixeukh2HewA.sjOiOEdAZUqDUKvP
+
 <!-- 
 [d3v]: https://creatio-global.zoom.us/rec/share/t2fmZm5zH1O5cYtTrl3K0xaR4A3407kJ-_RQswb6tEMI2cCVtStVud_gGP0YbQos.gfx9AVx2SyiRgw0c
 [d4v]: https://creatio-global.zoom.us/rec/share/S0mYU7GSBrlmKUr0HUFtvgPVstPFPnSqnYztFq5wZz7iJAH7sy8Sm-iwz_Uu7fS6._LXZ4AK72-CJXzMQ
