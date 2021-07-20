@@ -21,8 +21,8 @@
 |Day|Download Link|
 |:--:|:--:|
 |1|[Link][d1v]|
-|2|[Link][d2v1]|
-|2|[Link][d2v2]|
+|2|[Link Part 1][d2v1]|
+|2|[Link Part 2][d2v2]|
 <!-- 
 |3|[Link][d3v]|
 |4|[Link][d4v]|
