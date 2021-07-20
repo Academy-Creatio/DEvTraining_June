@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "80d1256a-0946-45de-9fd9-ef58da9bab18",
+    "Name": "Process_OnDataTrigger",
+    "ModifiedOnUtc": "\/Date(1626791708000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "On Data Trigger"
+  }
+}

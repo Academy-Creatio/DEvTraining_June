@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Set Contactd for onModified" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Set Contactd for onAdded" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Attach Contact" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Contact Id#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Contact" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Simple" />
+			<Item Name="BaseElements.StartSignal_onAdded.Caption" Value="On After Contact Added" />
+			<Item Name="BaseElements.StartSignal_onAdded.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.StartSignal_OnModified.Caption" Value="On After Contact Modified" />
+			<Item Name="BaseElements.StartSignal_OnModified.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="Caption" Value="On Data Trigger" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.contactId.Caption" Value="Contact Id" />
+		</Items>
+	</Group>
+</Resources>
