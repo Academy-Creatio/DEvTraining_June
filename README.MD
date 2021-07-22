@@ -20,11 +20,11 @@
 ## SESSION VIDEO RECODING
 |Day|Download Link|
 |:--:|:--:|
-|1|[Link][d1v]|
-|2|[Link Part 1][d2v1]|
-|2|[Link Part 2][d2v2]|
-<!-- 
+|1|[Video][d1v]|
+|2|[Video Part 1][d2v1]|
+|2|[Video Part 2][d2v2]|
 |3|[Link][d3v]|
+<!-- 
 |4|[Link][d4v]|
 |5|[Link][d5v]|
 |6|[Link][d6v]|
@@ -48,8 +48,8 @@ Thank you for having taken development training with me. In order to make this c
 [d2v1]:https://creatio-global.zoom.us/rec/share/VCW-Uz8MNu5c5w538uvpJvm7zF06bVLzZpXaAasolDNzsgS6D97RYyg1jxIAat3D.3UwkeoUFr3E_z8To
 [d2v2]:https://creatio-global.zoom.us/rec/share/3H16bX8fz2k8DJk3eZ6VWOZWdgO00OmFQllXQhgHnyofC9gAGU7z8Ixeukh2HewA.sjOiOEdAZUqDUKvP
 
+[d3v]: https://creatio-global.zoom.us/rec/share/xSE60LEz7k_5MHslwNDkElCQwkcdN80DQ8vf-G_ueIUSwFvd8A76RfEhQ5ADAz0m.FiOhT7RD4jejCg3Z
 <!-- 
-[d3v]: https://creatio-global.zoom.us/rec/share/t2fmZm5zH1O5cYtTrl3K0xaR4A3407kJ-_RQswb6tEMI2cCVtStVud_gGP0YbQos.gfx9AVx2SyiRgw0c
 [d4v]: https://creatio-global.zoom.us/rec/share/S0mYU7GSBrlmKUr0HUFtvgPVstPFPnSqnYztFq5wZz7iJAH7sy8Sm-iwz_Uu7fS6._LXZ4AK72-CJXzMQ
 [d5v]: https://creatio-global.zoom.us/rec/share/XjQVe1HKiYXSAZf3GXl1KkTrPrWXh85m_BIpFEH7YmOqRAw67w9bQ3feGrLb_Xuq.JEginMv4DcYEZq7Z
 [d6v]: https://creatio-global.zoom.us/rec/share/8qa2Qqpd9Tmi89WvSvJyWUmAHDKnByb1mqsErytarfoqgXPgvKPbtZegtCov9x6S.KwsQ1kDPdYuE23-V
