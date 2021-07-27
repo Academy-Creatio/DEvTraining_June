@@ -26,8 +26,8 @@
 |3|[Link][d3v]|
 |4|[Link][d4v]|
 |5|[Link][d5v]|
-<!-- 
 |6|[Link][d6v]|
+<!-- 
 |7|[Link][d7v]|
 |8|[Link][d8v]|  -->
 
@@ -51,8 +51,8 @@ Thank you for having taken development training with me. In order to make this c
 [d3v]: https://creatio-global.zoom.us/rec/share/xSE60LEz7k_5MHslwNDkElCQwkcdN80DQ8vf-G_ueIUSwFvd8A76RfEhQ5ADAz0m.FiOhT7RD4jejCg3Z
 [d4v]: https://creatio-global.zoom.us/rec/share/EAuyyTMDHK930mLrOZTjsFJkRxhTOZ2_ywYjRkF6hjWPNb7mAzNYHOy6NMT2uXyx.WhNX03zMRUdaTpFn 
 [d5v]: https://creatio-global.zoom.us/rec/share/xyUU7HTMCpvlcyV3v29a7HM2YhWb5v_ijVJ-k9vLarWd_blvuYDRqKEwY2sBRWGu.G2EXhT0RzQxDrzwW
+[d6v]: https://creatio-global.zoom.us/rec/share/phFN31ysgAFCgyVZhMTnDZxROXXnemR4xWdFAGJrSfHW3Nl3i1yZKaL51HetqtwO.GnW4ULt2yc7t6N7p
 <!-- 
-[d6v]: https://creatio-global.zoom.us/rec/share/8qa2Qqpd9Tmi89WvSvJyWUmAHDKnByb1mqsErytarfoqgXPgvKPbtZegtCov9x6S.KwsQ1kDPdYuE23-V
 [d7v]: https://creatio-global.zoom.us/rec/share/E79YR7YYe3fF6WrXXndbI_KGEHXltAH8JL9-qaNz4DTGFC1LAdUOJeLr8tjmhbtv.-sPu7UZhDMRVBkCV
 [d8v]: https://creatio-global.zoom.us/rec/share/7p4Rsvt-OemjhfusK-IM5Oy2GeqWURSyxJVQrDxqJnQkPFeXNSE5JG6iq4AI2CNk.eqSIu-Gh6nQljv5U 
 -->

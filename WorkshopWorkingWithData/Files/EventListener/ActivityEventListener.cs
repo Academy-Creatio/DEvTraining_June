@@ -40,7 +40,7 @@ namespace WorkshopWorkingWithData.Files.EventListener
 		{
 			if (CountOverlappingActivitiesSelect(entity) != 0)
 			{
-				string message = "{\"even \": \"Overlapping activities detected\"}";
+				string message = "{\"event\": \"Overlapping activities detected\"}";
 				MsgChannelUtilities.PostMessage(UserConnection, GetType().Name, message);
 
 				var evm = new EntityValidationMessage()
