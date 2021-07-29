@@ -37,6 +37,8 @@ namespace Terrasoft.Configuration.Dev.Pkg.DevTraining_July
 		[WebInvoke(Method = "GET", RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
 		public string GetMethodname()
 		{
+		//Example getting SystemSetting
+			var settingValue =  (int)Terrasoft.Core.Configuration.SysSettings.GetValue(UserConnection, "OurNewSetting");
 			UserConnection userConnection = UserConnection ?? SystemUserConnection;
 			return "Ok";
 		}

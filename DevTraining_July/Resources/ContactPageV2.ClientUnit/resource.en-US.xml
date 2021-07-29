@@ -16,7 +16,7 @@
 			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
 			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
-			<Item Name="LocalizableStrings.SubActionOneCaption.Value" Value="Page Sub Action One" />
+			<Item Name="LocalizableStrings.SubActionOneCaption.Value" Value="Create Reminder" />
 			<Item Name="LocalizableStrings.SubActionTwoCaption.Value" Value="Page Sub Action Two" />
 			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
 			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />

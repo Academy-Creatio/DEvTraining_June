@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9771e246-e1cf-47a1-939c-09409eaca185",
+    "Name": "ContactAnniversaryPageV2",
+    "ModifiedOnUtc": "\/Date(1627563532000)\/",
+    "Parent": {
+      "UId": "32ab29e9-20e6-4860-9d42-3423557c7a29",
+      "Name": "ContactAnniversaryPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contact noteworthy event page"
+  }
+}

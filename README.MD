@@ -14,6 +14,7 @@
 - Import Postman Environment and Collection from Postman folder. This folder includes DataService requests
 - [Import Visual Studio][vsTpl] Templates provided in VisualStudioTemplate folder. -->
 - [Odata] postman collection
+- [fetchFromDb] FetchFromDb method
 
 
 
@@ -27,9 +28,8 @@
 |4|[Link][d4v]|
 |5|[Link][d5v]|
 |6|[Link][d6v]|
-<!-- 
 |7|[Link][d7v]|
-|8|[Link][d8v]|  -->
+|8|[Link][d8v]| 
 
 ---
 ## [Feedback][feedBackForm]
@@ -52,10 +52,9 @@ Thank you for having taken development training with me. In order to make this c
 [d4v]: https://creatio-global.zoom.us/rec/share/EAuyyTMDHK930mLrOZTjsFJkRxhTOZ2_ywYjRkF6hjWPNb7mAzNYHOy6NMT2uXyx.WhNX03zMRUdaTpFn 
 [d5v]: https://creatio-global.zoom.us/rec/share/xyUU7HTMCpvlcyV3v29a7HM2YhWb5v_ijVJ-k9vLarWd_blvuYDRqKEwY2sBRWGu.G2EXhT0RzQxDrzwW
 [d6v]: https://creatio-global.zoom.us/rec/share/phFN31ysgAFCgyVZhMTnDZxROXXnemR4xWdFAGJrSfHW3Nl3i1yZKaL51HetqtwO.GnW4ULt2yc7t6N7p
-<!-- 
-[d7v]: https://creatio-global.zoom.us/rec/share/E79YR7YYe3fF6WrXXndbI_KGEHXltAH8JL9-qaNz4DTGFC1LAdUOJeLr8tjmhbtv.-sPu7UZhDMRVBkCV
-[d8v]: https://creatio-global.zoom.us/rec/share/7p4Rsvt-OemjhfusK-IM5Oy2GeqWURSyxJVQrDxqJnQkPFeXNSE5JG6iq4AI2CNk.eqSIu-Gh6nQljv5U 
--->
+[d7v]: https://creatio-global.zoom.us/rec/share/4hT8SQZ7sFV92c_27Qy2nhutVY-25ChguoTOVd9Iscseytto_kSnApaPP__4luhI.XkbE45c43MTEchj3
+[d8v]: https://creatio-global.zoom.us/rec/share/cqPr21iCjukqLf0w6tZEU0N9b-At6dNVN5jaIrmO8xxsXOmFPlm4nn-4lcTID_I.QtKFoneGth3pCHm4
+
 
 <!-- Links -->
 [clio]:https://github.com/Advance-Technologies-Foundation/clio
@@ -67,3 +66,5 @@ Thank you for having taken development training with me. In order to make this c
 
 [feedBackForm]:https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UQTQ3Mjg3VVBMNU82MzJNWDYxU1EwU0NPVy4u
 [about]:https://github.com/kirillkrylov/ImagesAndPages/wiki/Kirill-Krylov,-CPA
+
+[fetchFromDb]: https://academy.creatio.com/api/netcoreapi/7.15.0/index.html#Terrasoft.Core~Terrasoft.Core.Entities.Entity~FetchFromDB.html

@@ -32,7 +32,7 @@ namespace WorkshopWorkingWithData.Files.EventListener
 
 			if (!e.IsValidationEnabled)
 			{
-				entity.Validate();
+				//entity.Validate();
 			}
 		}
 

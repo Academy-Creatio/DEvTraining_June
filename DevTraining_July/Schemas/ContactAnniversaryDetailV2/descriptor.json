@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "48fe8c8e-5710-4042-a18f-812a32682583",
+    "Name": "ContactAnniversaryDetailV2",
+    "ModifiedOnUtc": "\/Date(1627487160000)\/",
+    "Parent": {
+      "UId": "d4c3fe4b-d6db-411d-a4f0-1dbbe8c8d333",
+      "Name": "ContactAnniversaryDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Noteworthy events of contact\""
+  }
+}

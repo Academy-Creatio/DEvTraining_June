@@ -2,6 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Create Activity" />
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
@@ -9,34 +10,31 @@
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Set column values" />
-			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.aa60c7bc-891e-45ee-8598-0233761e7914.displayValue" Value="TEST !!!!!!!!" />
-			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.aa60c7bc-891e-45ee-8598-0233761e7914.value" Value="TEST !!!!!!!!" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.aa60c7bc-891e-45ee-8598-0233761e7914.displayValue" Value="Activity from Contact Page Action Button" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.aa60c7bc-891e-45ee-8598-0233761e7914.value" Value="Activity from Contact Page Action Button" />
 			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Created record Id" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
-			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Type of result" />
-			<Item Name="Caption" Value="Business process 1" />
+			<Item Name="BaseElements.AddDataUserTask3.Caption" Value="Create Reminder" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Value.1dead371-eff9-4cb8-8b8b-1c8eb9ec070e.displayValue" Value="Title" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Value.1dead371-eff9-4cb8-8b8b-1c8eb9ec070e.value" Value="Title" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Value.7cd80b70-bb5c-4505-bac5-cc2808ffb236.displayValue" Value="THIS IS A DESCTIPRION" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Value.7cd80b70-bb5c-4505-bac5-cc2808ffb236.value" Value="THIS IS A DESCTIPRION" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Value.81469fb3-3344-430b-bdf1-9400cc88a3e5.displayValue" Value="Popup title" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Value.81469fb3-3344-430b-bdf1-9400cc88a3e5.value" Value="Popup title" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Start" />
+			<Item Name="Caption" Value="Create Reminder" />
 			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
 			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.contactId.Caption" Value="Contact Id" />
 		</Items>
 	</Group>
 </Resources>

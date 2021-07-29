@@ -2,6 +2,8 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="Columns.Email.Caption" Value="Emailllllllllllllllllllllllllllllllllllllllllllll" />
+			<Item Name="Columns.Name.Caption" Value="Full name!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" />
 			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_ContactValidating.Caption" Value="ContactValidating" />
 			<Item Name="EventsProcessSchema.BaseElements.ScriptTask_ValidateContact.Caption" Value="Validate Contact" />
 			<Item Name="EventsProcessSchema.BaseElements.StartMessage5_85b94c56e97b4305be4e7ec938541230.Caption" Value="Contact Validating" />

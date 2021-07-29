@@ -1,4 +1,4 @@
-define("ContactSectionV2", [], function() {
+define("ContactSectionV2", ["ProcessModuleUtilities"], function(ProcessModuleUtilities) {
 	return {
 		entitySchemaName: "Contact",
 		messages:{
@@ -20,6 +20,8 @@ define("ContactSectionV2", [], function() {
 				var primaryColumnValue = this.$ActiveRow;
 				var gridData = this.getGridData();
 				var activeRow = gridData.get(primaryColumnValue);
+
+				this.runProcess(primaryColumnValue)
 
 				this.sandbox.publish("SectionActionClicked", null, [this.sandbox.id+"_CardModuleV2"]);
 			},
@@ -43,6 +45,26 @@ define("ContactSectionV2", [], function() {
 			onActionClick: function(tag){
 				this.showInformationDialog("Section Action Clicked with tag: "+ tag);
 			},
+
+
+			runProcess: function (primaryColumnValue){
+				var id = primaryColumnValue;
+				var scope = this;
+				var args = {
+					sysProcessName: "Process_d168652",
+					parameters:{
+						contactId: id
+					},
+					callback: scope.onProcessCompleted(),
+					scope: scope
+				}
+				ProcessModuleUtilities.executeProcess(args);
+			},
+
+			onProcessCompleted: function(){
+				
+				this.hideBodyMask();
+			}
 		},
 		diff: /**SCHEMA_DIFF*/[
 			{
@@ -66,14 +88,14 @@ define("ContactSectionV2", [], function() {
 			{
 				"operation": "insert",
 				"name": "PrimaryContactButtonGreen",
-				"parentName": "ActionButtonsContainer", //visible in section and on a page
+				"parentName": "SeparateModeActionButtonsLeftContainer", //visible in section and on a page
 				"propertyName": "items",
 				"values":{
 					itemType: this.Terrasoft.ViewItemType.BUTTON,
 					style: Terrasoft.controls.ButtonEnums.style.GREEN,
 					classes: {
-						"textClass": ["actions-button-margin-right"],
-						"wrapperClass": ["actions-button-margin-right"]
+						textClass: ["actions-button-margin-right"],
+						wrapperClass: ["actions-button-margin-right"]
 					},
 					caption: "Section Green Button",
 					hint: "Section red button hint",
